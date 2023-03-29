@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with android development
-- 🌱 I’m currently learning kotlin
-- 🤔 I’m looking for help with information security
+- 🔭 I’m currently working with mobile development with Flutter and Kotlin
+- 🌱 I’m currently learning cybersecurity
+- 🤔 I’m looking for help with Python
 - 📫 How to reach me: danilofilomota@gmail.com
