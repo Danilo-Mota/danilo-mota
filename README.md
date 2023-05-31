@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working with mobile development with Kotlin and Flutter
 
-- ✨ Turning ideas into amazing apps! ✨
+- ✨ Turning ideas into amazing apps!
 - 🌟 With skills in Kotlin and Flutter, i am a mobile developer passionate about creating memorable experiences for mobile devices.
 
-## 💪💼 Skills and Experience:
+## 💪 Skills and Experience:
 - 📚 Proficient in Kotlin and Flutter with best practices
 - 🔨 Native and cross-platform development
 - 🎨 Designing modern and intuitive interfaces
