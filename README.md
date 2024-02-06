@@ -14,7 +14,7 @@
 
 ## 🏢 Professional Experience:
 
- **Mobile Developer at Jera** _(2021-2023)_ Current
+ **Mobile Developer at Jera** _(2021-2024)_ Current
  
     - Developing Android applications with Kotlin
     - Developing multiplataform applications with Flutter
