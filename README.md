@@ -1,25 +1,2 @@
-### Hi there 👋
-
-- 🔭 I’m currently working with mobile development with Kotlin and Flutter
-
-- ✨ Turning ideas into amazing apps!
-- 🌟 With skills in Kotlin and Flutter, i am a mobile developer passionate about creating memorable experiences for mobile devices.
-
-## 💪 Skills and Experience:
-- 📚 Proficient in Kotlin and Flutter with best practices
-- 🔨 Native and cross-platform development
-- 🎨 Designing modern and intuitive interfaces
-- 🔧 Performance optimization and troubleshooting
-- 🌐 Integration with APIs and web services
-
-## 🏢 Professional Experience:
-
- **Mobile Developer at Jera** _(2021-2024)_ Current
- 
-    - Developing Android applications with Kotlin
-    - Developing multiplataform applications with Flutter
-    - Implementing advanced features and performance improvements
-    - Collaborating in teams to deliver high-quality projects
-
-## 💡 Let's create something amazing together?
- 📫 How to reach me: danilomotafilho@gmail.com
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8](https://avatars.githubusercontent.com/u/72905566?s=80&v=4)');]{x0000}$}
